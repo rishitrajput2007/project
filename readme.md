@@ -77,6 +77,10 @@ Thank you for using the personal data collector. Goodbye!
 
 python1.py
 
+## Output Screenshot
+
+![Project 1 Output](output1.png)
+
 
 
 
