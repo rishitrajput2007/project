@@ -1,60 +1,47 @@
-# Pattern Generator and Number Analyzer
+---
+
+# Project 1 - Interactive Personal Data Collector
 
 ## Introduction
 
-This is a simple Python project created using basic programming concepts such as loops, conditions, match-case, and nested loops.
+This is a simple Python project that collects personal information from the user.
 
-The program gives the user different options through a menu-driven system. Users can generate star patterns, analyze numbers in a range, and calculate the sum of numbers.
+The program takes:
+- Name
+- Age
+- Height
+- Favourite Number
 
-This project is helpful for beginners who are learning Python fundamentals.
+After collecting the information, the program:
+- Displays user details
+- Shows variable data types
+- Shows memory addresses
+- Calculates approximate birth year
+
+This project is useful for beginners learning Python basics.
 
 ---
 
 # Features
 
-## 1. Pattern Generator
-- Generates a triangle star pattern
-- Uses nested loops
-
-Example:
-
-*
-* *
-* * *
-* * * *
-
----
-
-## 2. Number Analyzer
-- Checks whether numbers are even or odd
-- Finds the sum of numbers in a given range
-
-Example:
-
-Number 1 is Odd
-Number 2 is Even
-Number 3 is Odd
-
-Sum = 6
-
----
-
-## 3. Exit Option
-- Allows the user to safely exit the program
+- User input collection
+- Data type checking
+- Memory address display using id()
+- Birth year calculation
+- Uses datetime module
 
 ---
 
 # Concepts Used
 
-The following Python concepts are used in this project:
-
-- while loop
-- for loop
-- nested loops
-- if-else conditions
-- match-case
-- user input
-- arithmetic operators
+- Variables
+- Input and Output
+- int()
+- float()
+- f-strings
+- type()
+- id()
+- datetime module
 
 ---
 
@@ -66,67 +53,31 @@ The following Python concepts are used in this project:
 
 ---
 
-# How to Run the Project
-
-## Step 1
-Open the project in PyCharm.
-
-## Step 2
-Run the Python file.
-
-## Step 3
-Choose an option from the menu.
-
-Example:
-
-1. Generate a Pattern
-2. Analyze a Range of Numbers
-3. Exit
-
----
-
 # Sample Output
 
-Welcome to the Pattern Generator and Number Analyzer!
+Welcome to the Interactive Personal Data Collector
 
-Select an option:
-1. Generate a Pattern
-2. Analyze a Range of Numbers
-3. Exit
+Please enter your name: Rishit
+Please enter your age: 19
+Please enter your height in meters: 1.75
+Please enter your favourite number: 7
 
-Enter your choice: 1
+Thank you! Here is the information we collected:
 
-Enter the number of rows for the pattern: 4
+Name: Rishit
+Age: 19
+Height: 1.75
+Favourite Number: 7
 
-Pattern:
-*
-* *
-* * *
-* * * *
+Your birth year is approximately: 2007
 
----
-
-# File Structure
-
-project-folder/
-│
-├── project1.py
-└── README.md
+Thank you for using the personal data collector. Goodbye!
 
 ---
 
-# Future Improvements
+# File Name
 
-- Add more pattern types
-- Add prime number checking
-- Add palindrome number checking
-- Improve user interface
-
----
-
-# Output Screenshot
-
-![Program Output](output.png)
+python1.py
 
 ---
 
