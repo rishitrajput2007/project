@@ -124,7 +124,14 @@ project-folder/
 
 ---
 
+# Output Screenshot
+
+![Program Output](output.png)
+
+---
+
+
 # Author
-
-
 Rishit Rajput
+
+
