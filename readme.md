@@ -18,7 +18,7 @@ After collecting the information, the program:
 
 This project is useful for beginners learning Python basics.
 
----
+
 
 # Features
 
@@ -28,7 +28,7 @@ This project is useful for beginners learning Python basics.
 - Birth year calculation
 - Uses datetime module
 
----
+
 
 # Concepts Used
 
@@ -41,7 +41,7 @@ This project is useful for beginners learning Python basics.
 - id()
 - datetime module
 
----
+
 
 # Technologies Used
 
@@ -49,7 +49,7 @@ This project is useful for beginners learning Python basics.
 - PyCharm
 - GitHub
 
----
+
 
 # Sample Output
 
@@ -71,13 +71,13 @@ Your birth year is approximately: 2007
 
 Thank you for using the personal data collector. Goodbye!
 
----
+
 
 # File Name
 
 python1.py
 
----
+
 
 
 # Author
