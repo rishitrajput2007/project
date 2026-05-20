@@ -1,5 +1,3 @@
----
-
 # Project 1 - Interactive Personal Data Collector
 
 ## Introduction
