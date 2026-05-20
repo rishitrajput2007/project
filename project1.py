@@ -17,6 +17,7 @@ print(f"Age: {m} (Type: {type(m)}, Memory Address: {id(m)})")
 print(f"Height: {a} (Type: {type(a)}, Memory Address: {id(a)})")
 print(f"Favourite Number: {b} (Type: {type(b)}, Memory Address: {id(b)})")
 
+
 print()
 
 from datetime import datetime

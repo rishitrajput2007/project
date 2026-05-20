@@ -77,6 +77,10 @@ Thank you for using the personal data collector. Goodbye!
 
 python1.py
 
+# Project Explanation Video
+
+[Watch Video here](https://drive.google.com/file/d/1IeWeBM2bZRRZ7RS5fEfWvTniBz5rsWyw/view?usp=sharing)
+
 ## Output Screenshot
 
 ![Project 1 Output](output1.png)
